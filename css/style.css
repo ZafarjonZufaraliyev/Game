@@ -525,21 +525,7 @@ td {
     margin-top: 0.5rem;
     padding: .75rem 1rem;
   }
-  main .side-controls--container-2 {
-    margin-top: 0.5rem;
-    /* padding: .75rem; */
-    background-color: #00000055;
-    background-color: #fff;
-    box-shadow: 0px 2px 6px 3px #33333330;
-    display: grid;
-    border-radius: 5px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 0.5rem;
-    color: #fff;
-    text-decoration: none;
-  }
+
   main .side-controls--container-2 p {
     color: #3328fe;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
